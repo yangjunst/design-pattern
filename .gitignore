@@ -1,0 +1,21 @@
+*.class
+.DS_Store
+application.pid
+
+*.jar
+*.war
+*.ear
+hs_err_pid*
+
+# Eclipse
+.classpath
+.project
+target/
+.settings/
+
+# Idea/
+.idea/
+*.iml
+
+# git
+*.orig
